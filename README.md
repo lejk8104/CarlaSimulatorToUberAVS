@@ -5,7 +5,7 @@ first. We make KITTI example (Uber XVIZ kitti example)
 second. We make autonomy sensor data visualization system for Carla Simulator (Ford HMI)
 finally. We make autonomy sensor data visualization system for DGIST autonomous Car
 
-1. Convert to KITTI open dataset into XVIZ data 
+1. Convert to KITTI open dataset into XVIZ data
   1-1. convert to KITTI data into ROS bag file using "kitti2bag"
   link https://github.com/tomas789/kitti2bag
   1-2 create ROS-config using xviz-ros tool
